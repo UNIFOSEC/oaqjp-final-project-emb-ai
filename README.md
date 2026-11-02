@@ -1,4 +1,4 @@
-# Repository for final project
+# Final Project
 
-Final Project: an AI-based Emotion Detection web application built with the
+An AI-based Emotion Detection web application built with the
 embeddable Watson NLP library and Flask.
